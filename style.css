@@ -1,0 +1,22 @@
+div.red-border {
+    border-radius: 11px 12px 13px 14px;
+    border-color: blueviolet;
+    border-width: 23px;
+    border-style: solid;
+}
+div.disp    {
+    display: inline-block;
+    border: solid rebeccapurple;
+    height: 140px;
+    width: 140 px;
+}
+#box {
+    height: 200px;
+    width: 200px;
+    border: solid #444444;
+    background-position: center center;
+    background-image: url(eberhard.jpg);
+    background-size: cover;
+    border-radius: 0 50% 0 50%;
+    box-shadow: 20px 20px 20px red;
+}
